@@ -20,7 +20,10 @@ I divided this paper's work into two steps. First, use MSCOCO17 dataset to build
 - PyTorch 0.4.0
 - opencv 3.*
 
-## 4. Thank you for give me help and advice
+## 4. Directory
+I provided my directory of the project in this respository. Please download related image data in ./train2017/, ./val2017/ and ./test2017/. It will write data in ./DataSet/ directory after you run Get_Dataset.
+
+## 5. Thank you for give me help and advice
 If you see this description , I hope you can give me help and advice, any help and advice will be welcome.
 
 
